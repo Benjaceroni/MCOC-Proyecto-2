@@ -12,9 +12,9 @@ Se consideran parametros de la simulación con diametro de particulas de 5.6 mm,
 ## Tiempo simulación
 
   	Para 1 particula:    0.17s
+	Para 2 particulas:   0.44s
 	Para 3 particulas:   1.15s
 	Para 5 particulas:   4.86s
+	Para 8 particulas:   34.68s
 	Para 10 particulas:  76.18s
-	Para 12 particulas:  123.9s
-	Para 15 particulas:  321s
-	Para 17 particulas:  636.7s
+	

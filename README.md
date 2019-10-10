@@ -5,9 +5,10 @@ Se consideran parametros de la simulación con diametro de particulas de 5.6 mm,
 
 ## Especificaciones del computador
   
-  Windows 10
-  AMD Ryzen 5 1600X Six-Core 3.60 GHz
-  RAM 16 GB
+  - Windows 10 Home
+  - Procesador AMD Ryzen 5 1600X Six-Core 3.60 GHz
+  - RAM 16 GB
+  - Sistema operativo de 64 bits, procesador basado en x64
 
 ## Tiempo simulación
 

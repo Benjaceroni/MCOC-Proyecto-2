@@ -1,4 +1,4 @@
-# MCOC-Proyecto-2
+# MCOC-Proyecto-2-Entrega-4
 Proyecto 2 Metodos computacionales para Obras Civiles
 
 Se consideran parametros de la simulación con diametro de particulas de 5.6 mm, un dt de 0.001, tiempo máximo de 0.5 segundos, en donde se obtienen los siguientes resultados

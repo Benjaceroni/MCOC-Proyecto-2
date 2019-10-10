@@ -10,12 +10,12 @@ Se consideran parametros de la simulación con diametro de particulas de 5.6 mm,
   - RAM 16 GB
   - Sistema operativo de 64 bits, procesador basado en x64
 
-## Tiempo simulación
+## Tiempo simulación y resultados
 
-  	Para 1 particula:    0.17s
-	Para 2 particulas:   0.44s
-	Para 3 particulas:   1.15s
-	Para 5 particulas:   4.86s
-	Para 8 particulas:   34.68s
-	Para 10 particulas:  76.18s
+- Para 1 particula: 0.17s
+- Para 2 particulas: 0.44s
+- Para 3 particulas: 1.15s
+- Para 5 particulas: 4.86s
+- Para 8 particulas: 34.68s
+- Para 10 particulas: 76.18s
 	

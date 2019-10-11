@@ -39,7 +39,7 @@ Tiempo =
 
 **Tiempo y resultados obtenidos por codigo**
 
-Tiempo = 
+Tiempo =
 
 ###### Simulación 4
 - Cantidad de partículas: 20

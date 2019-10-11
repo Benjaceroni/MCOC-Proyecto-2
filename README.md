@@ -13,6 +13,7 @@ Se consideran parametros de la simulación con diametro de particulas de 5.6 mm,
 ## Método de implementación del codigo
 
 Se utilizaron valores entregados entregados por el profesor con anterioridad, presentados con el nombre de "simulacion-1", "simulacion-2", "simulacion-3" y "simulacion-4", en los cuales se tienen la cantidad de particulas a simular, sus posiciones y velocidades iniciales y los resultados esperados a obtener, con el objetivo de poder comparar estos resultados con los propios obtenidos.
+Es necesario agregar que cada simulación se corrio 3 veces para obtener un tiempo de operación promedio.
 
 ## Características, tiempo y resultados de cada simulación
 

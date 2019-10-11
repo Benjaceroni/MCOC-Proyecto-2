@@ -19,25 +19,29 @@ Se utilizaron valores entregados entregados por el profesor con anterioridad, pr
 ###### Simulación 1
 - Cantidad de partículas: 10
 - Tiempo de modelación por profesor: 251.5 seg.
-- Tiempo y resultados obtenidos por codigo:
+**Tiempo y resultados obtenidos por codigo**
+
 Tiempo = 
 
 ###### Simulación 2
 - Cantidad de partículas: 5
 - Tiempo de modelación por profesor: 115.1 seg.
-- Tiempo y resultados obtenidos por codigo:
+**Tiempo y resultados obtenidos por codigo**
+
 Tiempo = 
 
 ###### Simulación 3
 - Cantidad de partículas: 2
 - Tiempo de modelación por profesor: 44.1 seg.
-- Tiempo y resultados obtenidos por codigo:
+**Tiempo y resultados obtenidos por codigo**
+
 Tiempo = 
 
 ###### Simulación 4
 - Cantidad de partículas: 20
 - Tiempo de modelación por profesor: 447.0 seg.
-- Tiempo y resultados obtenidos por codigo:
+**Tiempo y resultados obtenidos por codigo**
+
 Tiempo = 
 
 

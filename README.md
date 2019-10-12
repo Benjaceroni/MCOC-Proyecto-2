@@ -17,36 +17,65 @@ Es necesario agregar que cada simulación se corrio 3 veces para obtener un tiem
 
 ## Características, tiempo y resultados de cada simulación
 
-###### Simulación 1
+**Simulación 1**
 - Cantidad de partículas: 10
 - Tiempo de modelación por profesor: 251.5 seg.
+- Resultado obtenido por profesor:
 
-**Tiempo y resultados obtenidos por codigo**
+![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692396-636d9c00-ec74-11e9-8893-82cb07cc696b.png)
+
+
+###### Tiempo y resultados obtenidos por codigo
 
 Tiempo = 
 
-###### Simulación 2
+Resultado:
+
+
+
+**Simulación 2**
 - Cantidad de partículas: 5
 - Tiempo de modelación por profesor: 115.1 seg.
+- Resultado obtenido por profesor:
 
-**Tiempo y resultados obtenidos por codigo**
+![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692387-518bf900-ec74-11e9-8f4c-d8b2ae59a600.png)
+
+###### Tiempo y resultados obtenidos por codigo
 
 Tiempo = 
 
-###### Simulación 3
+Resultado:
+
+![Sim2](https://user-images.githubusercontent.com/53712580/66692417-8f891d00-ec74-11e9-946f-05efd6d9d32e.PNG)
+
+**Simulación 3**
 - Cantidad de partículas: 2
 - Tiempo de modelación por profesor: 44.1 seg.
+- Resultado obtenido por profesor:
 
-**Tiempo y resultados obtenidos por codigo**
+![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692384-37eab180-ec74-11e9-816d-df076c8d23e9.png)
 
-Tiempo =
 
-###### Simulación 4
+###### Tiempo y resultados obtenidos por codigo
+
+Tiempo = 6.7 seg.
+
+Resultado:
+
+![Sim3](https://user-images.githubusercontent.com/53712580/66692428-a465b080-ec74-11e9-8aab-4c2cf3129ce7.PNG)
+
+**Simulación 4**
 - Cantidad de partículas: 20
 - Tiempo de modelación por profesor: 447.0 seg.
+- Resultado obtenido por profesor:
 
-**Tiempo y resultados obtenidos por codigo**
+![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692372-273a3b80-ec74-11e9-8f6c-392e1bbd8c73.png)
 
-Tiempo = 
+###### Tiempo y resultados obtenidos por codigo
 
+Tiempo = aproximadamente unos 5400 seg.
+
+Resultado: 
+
+Desafortunadamente, el programa no logro entregar un grafico de este caso, y considerando lo mucho que demoraba en correr, se opto por no mostrar resultados.
 

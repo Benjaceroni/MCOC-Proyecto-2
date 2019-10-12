@@ -24,13 +24,13 @@ Es necesario agregar que cada simulación se corrio 3 veces para obtener un tiem
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692396-636d9c00-ec74-11e9-8893-82cb07cc696b.png)
 
-
 ###### Tiempo y resultados obtenidos por codigo
 
-Tiempo = 
+Tiempo = 632.81 seg.
 
 Resultado:
 
+![sim1](https://user-images.githubusercontent.com/53712580/66692580-2efadf80-ec76-11e9-837a-0f5ac8bf21db.PNG)
 
 
 **Simulación 2**
@@ -42,7 +42,7 @@ Resultado:
 
 ###### Tiempo y resultados obtenidos por codigo
 
-Tiempo = 
+Tiempo = 62.4 seg.
 
 Resultado:
 
@@ -54,7 +54,6 @@ Resultado:
 - Resultado obtenido por profesor:
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692384-37eab180-ec74-11e9-816d-df076c8d23e9.png)
-
 
 ###### Tiempo y resultados obtenidos por codigo
 

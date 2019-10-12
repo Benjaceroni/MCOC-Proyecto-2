@@ -24,7 +24,7 @@ Es necesario agregar que cada simulación se corrio 3 veces para obtener un tiem
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692396-636d9c00-ec74-11e9-8893-82cb07cc696b.png)
 
-###### Tiempo y resultados obtenidos por codigo
+**Tiempo y resultados obtenidos por codigo**
 
 Tiempo = 632.81 seg.
 
@@ -40,7 +40,7 @@ Resultado:
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692387-518bf900-ec74-11e9-8f4c-d8b2ae59a600.png)
 
-###### Tiempo y resultados obtenidos por codigo
+**Tiempo y resultados obtenidos por codigo**
 
 Tiempo = 62.4 seg.
 
@@ -55,7 +55,7 @@ Resultado:
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692384-37eab180-ec74-11e9-816d-df076c8d23e9.png)
 
-###### Tiempo y resultados obtenidos por codigo
+**Tiempo y resultados obtenidos por codigo**
 
 Tiempo = 6.7 seg.
 
@@ -70,7 +70,7 @@ Resultado:
 
 ![particle_trajectories](https://user-images.githubusercontent.com/53712580/66692372-273a3b80-ec74-11e9-8f6c-392e1bbd8c73.png)
 
-###### Tiempo y resultados obtenidos por codigo
+**Tiempo y resultados obtenidos por codigo**
 
 Tiempo = aproximadamente unos 5400 seg.
 

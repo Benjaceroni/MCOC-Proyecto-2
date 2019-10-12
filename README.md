@@ -78,3 +78,6 @@ Resultado:
 
 Desafortunadamente, el programa no logro entregar un grafico de este caso, y considerando lo mucho que demoraba en correr, se opto por no mostrar resultados.
 
+## Observaciones
+
+Probablemente, uno de los motivos de porque este codigo logra ser más rapido a menores particulas pero mas lento a mayores particulas (llegando a un punto inutilizable) es por el ciclo for en la definicion particula(z,t), pues cuando son pocas particulas es capaz de realizar las pruebas de choques entre estas de manera rapida, sin embargo, cuando son muchas particulas, el programa no es capaz de realizar este ciclo con gran rapidez y produce la lentitud mostrada. Es necesario realizar mayor testeo en esa parte del codigo, y es posible realizar optimizaciones en este mismo para que demore rangos de tiempos aceptables.
